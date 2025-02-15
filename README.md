@@ -1,2 +1,7 @@
-# datafundamentals_calidad_datos_perfilado
-Data Fundamentals: Calidad de datos y perfilado -  Ejercicio nº2
+# Curso Netmind - Etapa 2
+Juan José López Barbeito
+David Escudero Cascón
+
+https://github.com/ricardoahumada/DataExpert/tree/main/etapa2
+
+
